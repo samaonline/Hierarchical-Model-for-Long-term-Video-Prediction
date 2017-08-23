@@ -11,6 +11,10 @@ Note: 1. The latest version of tensorflow is needed.
 A Strongly-supervised Representation for Detailed Action Understanding" International Conference on Computer Vision (ICCV). Dec 2013.):
 http://dreamdragon.github.io/PennAction/
 
+Then download pretrained alexnet model: ./models/download.sh
+
+and pretrained vgg model: https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM (rename it vgg.npy afterwards)
+
 and then run preposs.ipynb
 
 3. Run our LSTM model and analogy network model separately.
